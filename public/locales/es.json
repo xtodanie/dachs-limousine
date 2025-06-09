@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "heading": "MÁS ALLÁ DEL LUJO. DESDE 1940.",
+    "subheading": "Desde Barcelona para el mundo. Servicios VIP con más de 80 años de legado.",
+    "ctaButton": "Solicita tu experiencia VIP"
+  },
+  "featureGrid": {
+    "exclusivity": {
+      "title": "Exclusividad",
+      "description": "Privacidad y distinción incomparables en cada viaje."
+    },
+    "comfort": {
+      "title": "Confort Superior",
+      "description": "Viaje con la máxima comodidad en nuestra flota premium."
+    },
+    "punctuality": {
+      "title": "Puntualidad Garantizada",
+      "description": "La puntualidad es nuestra promesa para su tranquilidad."
+    },
+    "personalizedAttention": {
+      "title": "Atención Personalizada",
+      "description": "Servicios a medida para satisfacer todas sus necesidades."
+    }
+  },
+  "conciergeVip": {
+    "heading": "CONSERJERÍA VIP",
+    "subheading": "Servicios Culturalmente Personalizados",
+    "description": "Nuestro servicio de Conserjería VIP va más allá del transporte. Ofrecemos experiencias culturalmente adaptadas, entendiendo los matices de nuestra clientela de élite. Desde tours privados hasta acceso exclusivo a eventos, cada detalle se planifica meticulosamente según los protocolos VIP internacionales, asegurando una experiencia inolvidable en Barcelona.",
+    "imageAlt": "Servicio de conserjería de lujo en Barcelona"
+  },
+  "vehicleGallery": {
+    "heading": "Nuestra Flota Exclusiva",
+    "imageAlt1": "Sedán de lujo en Barcelona",
+    "imageAlt2": "SUV ejecutivo para eventos en Barcelona",
+    "imageAlt3": "Limusina vintage para bodas en Barcelona",
+    "imageAlt4": "Furgoneta de lujo para transporte de grupos en Barcelona"
+  },
+  "finalCta": {
+    "heading": "¿Listo para tu próxima experiencia de lujo?",
+    "contactButton": "Contáctanos",
+    "shareButton": "Comparte esta experiencia"
+  }
+}

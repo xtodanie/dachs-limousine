@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "heading": "BEYOND LUXURY. SINCE 1940.",
+    "subheading": "From Barcelona to the world. VIP services with over 80 years of legacy.",
+    "ctaButton": "Request your VIP experience"
+  },
+  "featureGrid": {
+    "exclusivity": {
+      "title": "Exclusivity",
+      "description": "Unparalleled privacy and distinction in every journey."
+    },
+    "comfort": {
+      "title": "Superior Comfort",
+      "description": "Travel in ultimate comfort with our premium fleet."
+    },
+    "punctuality": {
+      "title": "Guaranteed Punctuality",
+      "description": "Timeliness is our promise for your peace of mind."
+    },
+    "personalizedAttention": {
+      "title": "Personalized Attention",
+      "description": "Tailored services to meet your every need."
+    }
+  },
+  "conciergeVip": {
+    "heading": "VIP CONCIERGE",
+    "subheading": "Culturally Personalized Services",
+    "description": "Our VIP Concierge service goes beyond transportation. We offer culturally attuned experiences, understanding the nuances of our elite clientele. From private tours to exclusive event access, every detail is meticulously planned according to international VIP protocols, ensuring an unforgettable Barcelona experience.",
+    "imageAlt": "Luxury concierge service in Barcelona"
+  },
+  "vehicleGallery": {
+    "heading": "Our Exclusive Fleet",
+    "imageAlt1": "Luxury sedan in Barcelona",
+    "imageAlt2": "Executive SUV for events in Barcelona",
+    "imageAlt3": "Vintage limousine for weddings in Barcelona",
+    "imageAlt4": "Luxury van for group transport in Barcelona"
+  },
+  "finalCta": {
+    "heading": "Ready for your next luxury experience?",
+    "contactButton": "Contact Us",
+    "shareButton": "Share this experience"
+  }
+}
