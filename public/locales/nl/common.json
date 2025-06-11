@@ -1,0 +1,372 @@
+{
+  "navbar": {
+    "logoText": "Dachs Limousines",
+    "home": "Home",
+    "services": "Diensten",
+    "aboutUs": "Over Ons",
+    "corporate": "Zakelijk & Evenementen",
+    "conciergeVip": "VIP Concierge",
+    "reservations": "Reserveringen",
+    "contact": "Contact",
+    "changeLanguage": "Taal wijzigen",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten"
+  },
+  "hero": {
+    "backgroundAlt": "Luxe limousine op Passeig de Gràcia",
+    "heading": "VOORBIJ LUXE. SINDS 1940.",
+    "subheading": "Van Barcelona naar de wereld. VIP-diensten met meer dan 80 jaar ervaring.",
+    "ctaButton": "Vraag uw VIP-ervaring aan"
+  },
+  "legacy": {
+    "heading": "Een erfenis van uitmuntendheid sinds 1940",
+    "subheading": "Meer dan acht decennia exclusieve service in heel Spanje.",
+    "tradition": {
+      "title": "Traditie en Prestige",
+      "description": "Dachs Limousines, opgericht in 1940, staat synoniem voor luxe en vertrouwen in privévervoer."
+    },
+    "fleet": {
+      "title": "Onberispelijke Vloot",
+      "description": "Moderne en klassieke voertuigen, onderhouden volgens de hoogste normen voor uw comfort en veiligheid."
+    },
+    "discretion": {
+      "title": "Absolute Discretie",
+      "description": "Professionaliteit en vertrouwelijkheid gegarandeerd voor al onze klanten en diensten."
+    }
+  },
+  "differentiators": {
+    "heading": "Uitmuntendheid als uitgangspunt",
+    "detail": {
+      "title": "Oog voor Detail",
+      "description": "Elke dienst wordt zorgvuldig gepland om uw verwachtingen van luxe en efficiëntie te overtreffen."
+    },
+    "punctuality": {
+      "title": "Zwitserse Stiptheid",
+      "description": "Onwrikbare toewijding aan stiptheid, zodat u altijd op tijd aankomt."
+    },
+    "personalized": {
+      "title": "Gepersonaliseerde Service",
+      "description": "Wij passen ons aan uw specifieke behoeften aan en bieden een ervaring op maat."
+    }
+  },
+  "footer": {
+    "legal": {
+      "navLabel": "Juridische links",
+      "cookies": "Cookiebeleid",
+      "privacy": "Privacybeleid",
+      "social": "Socialmediabeleid",
+      "notice": "Juridische kennisgeving",
+      "terms": "Algemene voorwaarden"
+    },
+    "copyrightName": "Dachs Limousines S.L.",
+    "copyrightRights": "Alle rechten voorbehouden."
+  },
+  "legal": {
+    "contentPending": "Inhoud wordt nog geladen.",
+    "cookies": {
+      "title": "Cookiebeleid"
+    },
+    "privacy": {
+      "title": "Privacybeleid"
+    },
+    "social": {
+      "title": "Socialmediabeleid"
+    },
+    "notice": {
+      "title": "Juridische Kennisgeving"
+    },
+    "terms": {
+      "title": "Algemene Voorwaarden"
+    }
+  },
+  "aiConcierge": {
+    "triggerButton": "AI Concierge Chat openen",
+    "triggerShort": "AI Concierge",
+    "modalTitle": "Dachs AI Concierge",
+    "greeting": "Welkom bij Dachs Limousines. Hoe kan ik u assisteren bij uw exclusieve ervaring?",
+    "inputPlaceholder": "Typ hier uw bericht...",
+    "sendButton": "Verstuur",
+    "error": "Sorry, er is een fout opgetreden. Probeer het later opnieuw.",
+    "offerContact": "Indien gewenst, kan ik helpen ons team contact met u op te laten nemen voor meer gepersonaliseerde aandacht.",
+    "showFormButton": "Gepersonaliseerd Contact Aanvragen",
+    "form": {
+      "title": "Geef uw gegevens op voor gepersonaliseerd contact:",
+      "nameLabel": "Naam",
+      "namePlaceholder": "Uw volledige naam",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "u@voorbeeld.nl",
+      "phoneLabel": "Telefoon (Optioneel)",
+      "phonePlaceholder": "+31 20 123 4567",
+      "messageLabel": "Extra bericht",
+      "messagePlaceholder": "Details van uw aanvraag...",
+      "submitButton": "Verzoek Verzenden",
+      "cancelButton": "Annuleren",
+      "submissionMessage": "Dank u, {name}. Wij hebben uw verzoek ontvangen. Een adviseur neemt spoedig contact met u op."
+    }
+  },
+  "chatWidget": {
+    "trigger": "Chat met Dachs"
+  },
+  "contactoPage": {
+    "hero": {
+      "title": "Neem contact met ons op voor een gepersonaliseerde ervaring",
+      "subtitle": "Wij helpen u graag met het plannen van een onvergetelijke reis"
+    },
+    "form": {
+      "title": "Stuur ons een bericht",
+      "fullNameLabel": "Volledige naam",
+      "fullNamePlaceholder": "Jan Jansen",
+      "emailLabel": "E-mail",
+      "emailPlaceholder": "jan.jansen@voorbeeld.com",
+      "phoneLabel": "Telefoon",
+      "phonePlaceholder": "+31 20 123 4567",
+      "messageLabel": "Bericht",
+      "messagePlaceholder": "Schrijf hier uw vraag...",
+      "termsLabel": "Ik heb de algemene voorwaarden en het privacybeleid gelezen en ga hiermee akkoord",
+      "submitButton": "Verzoek verzenden",
+      "submitAlert": "Formulier verzonden (simulatie). Bedankt voor uw contact."
+    },
+    "info": {
+      "title": "Onze Informatie",
+      "addressValue": "C/ Valencia, 455, 08013 BARCELONA",
+      "phoneValue": "93 231 45 07",
+      "faxValue": "93 265 48 43",
+      "emailValue": "info@dachslimousines.com"
+    },
+    "map": {
+      "title": "Vind Ons",
+      "iframeTitle": "Locatie Dachs Limousines op Google Maps"
+    },
+    "finalCta": {
+      "title": "Wilt u liever dat wij contact met u opnemen?",
+      "button": "VIP-belverzoek"
+    }
+  },
+  "sobrePage": {
+    "hero": {
+      "title": "Meer dan 80 jaar uitmuntendheid op wielen",
+      "subtitle": "Pioniers in luxe autoverhuur met chauffeur in Spanje sinds 1940."
+    },
+    "history": {
+      "title": "Onze Geschiedenis",
+      "paragraph1": "Sinds 1940 zet Dachs Limousines de standaard voor exclusief transport in Spanje.",
+      "paragraph2": "Als een van de pioniersbedrijven in autoverhuur met chauffeur in Barcelona, hebben we generaties klanten begeleid met een onwrikbare toewijding aan stiptheid, elegantie en comfort.",
+      "paragraph3": "Onze vloot omvat directielimousines, luxueuze limousines, busjes, minibussen en touringcars, allemaal uitgerust om te voldoen aan de verwachtingen van degenen die het beste eisen.",
+      "paragraph4": "Elk detail is zorgvuldig verzorgd. Met hoogopgeleide, meertalige chauffeurs bieden we meer dan alleen een rit: een wrijvingsloze ervaring, met stijl en discretie.",
+      "slogan": "Elegantie in beweging. Sinds 1940.",
+      "imageAlt1": "Klassiek Dachs-voertuig in Barcelona",
+      "imageAlt2": "Professionele chauffeur van Dachs Limousines"
+    },
+    "differentiators": {
+      "title": "Een Service Voor U Ontworpen",
+      "experience": "Meer dan 80 jaar ervaring",
+      "drivers": "Meertalige en professionele chauffeurs",
+      "attention": "Gepersonaliseerde 24-uurs aandacht",
+      "fleet": "Vloot aangepast aan elke behoefte"
+    },
+    "cta": {
+      "title": "Klaar om het volgende niveau van luxe transport te ervaren?",
+      "reserveButton": "Reserveer uw VIP-ervaring",
+      "contactButton": "Neem contact op"
+    }
+  },
+  "serviciosPage": {
+    "title": "Onze Premium Diensten"
+  },
+  "fleet": {
+    "heading": "Elite Vloot",
+    "sClass": {
+      "alt": "Zwarte Mercedes S-Klasse van Dachs Limousines",
+      "name": "Mercedes S-Klasse",
+      "description": "De representatieve sedan bij uitstek. Luxe, comfort en geavanceerde technologie voor uw belangrijkste reizen."
+    },
+    "suv": {
+      "alt": "Zwarte executive SUV van Dachs Limousines",
+      "name": "Executive SUV",
+      "description": "Ruimte, veelzijdigheid en elegantie. Ideaal voor kleine groepen, gezinnen of wie extra comfort en veiligheid zoekt."
+    },
+    "van": {
+      "alt": "Luxe Mercedes V-Klasse busje van Dachs Limousines",
+      "name": "Luxe Busje (Mercedes V-Klasse)",
+      "description": "Superieur comfort voor groepen tot 7 passagiers. Perfect voor teamtransfers, evenementen of VIP-toerisme."
+    },
+    "classic": {
+      "alt": "Klassieke witte limousine van Dachs Limousines voor bruiloften",
+      "name": "Klassieke Auto's en Limousines",
+      "description": "Een vleugje distinctie voor bruiloften, vieringen en speciale evenementen. Iconische voertuigen voor onvergetelijke momenten."
+    }
+  },
+  "experiences": {
+    "heading": "Luxe Ervaringen",
+    "football": {
+      "title": "Elite Voetbal",
+      "description": "Toegang tot VIP-boxen, exclusieve stadiontransfers en gastronomische diners. Ervaar voetbal als nooit tevoren."
+    },
+    "wineRoute": {
+      "title": "Wijn- en Gastronomieroutes",
+      "description": "Ontdek prestigieuze wijnmakerijen, privéproeverijen en Michelin-sterrenrestaurants, allemaal met privéchauffeur."
+    },
+    "corporate": {
+      "title": "Premium Bedrijfsevenementen",
+      "description": "Onberispelijke logistiek voor congressen, bijeenkomsten op hoog niveau en roadshows. Uw imago, onze prioriteit."
+    }
+  },
+  "empresasPage": {
+    "hero": {
+      "title": "Hoogwaardige mobiliteitsoplossingen voor bedrijven en evenementen",
+      "subtitle": "Vertrouw op Dachs Limousines voor premium transfers voor congressen, bruiloften, zakenreizen en groepslogistiek.",
+      "cta": "Gepersonaliseerd voorstel aanvragen"
+    },
+    "leadersSection": {
+      "bgAlt": "Achtergrond bedrijfsevenement",
+      "title": "Leiders in premium mobiliteit sinds 1940",
+      "paragraph1": "Bij Dachs Limousines bedienen we al meer dan 80 jaar bedrijven, instellingen en veeleisende klanten.",
+      "paragraph2": "Onze ervaring stelt ons in staat om complete oplossingen te bieden in premium mobiliteit: van individuele transfers tot uitgebreide logistiek voor evenementen met honderden deelnemers, waarbij altijd punctualiteit, discretie en maximaal comfort worden gegarandeerd."
+    },
+    "services": {
+      "heading": "Diensten Ontworpen voor het Succes van Uw Evenement",
+      "corporate": {
+        "title": "Zakelijke Transfers",
+        "description": "Ophalen van luchthavens, stations en hotels voor executives en teams. Punctualiteit en discretie gegarandeerd."
+      },
+      "weddings": {
+        "title": "Droombruiloften",
+        "description": "Limousines en high-end voertuigen voor bruidsparen en gasten. Wij zorgen voor elk detail voor een perfecte dag."
+      },
+      "congresses": {
+        "title": "Congressen en Beurzen",
+        "description": "Logistiek transportmanagement voor grootschalige evenementen, met meertalige aandacht en coördinatie ter plaatse."
+      },
+      "vipTourism": {
+        "title": "VIP Toerisme en Excursies",
+        "description": "Gepersonaliseerde routes met meertalige chauffeurs om Barcelona en omgeving met maximaal comfort te ontdekken."
+      }
+    },
+    "benefits": {
+      "heading": "Een premium vloot, een onberispelijke ervaring",
+      "fleet": "Hoogwaardige vloot met Wi-Fi, airconditioning en maximale discretie.",
+      "drivers": "Professionele, geüniformeerde en meertalige chauffeurs.",
+      "organization": "Uitgebreide organisatie van transfers voor evenementen van elke omvang.",
+      "budgets": "Aanpassing aan alle soorten klanten en budgetten met oplossingen op maat.",
+      "attention": "Snelle offertes en gepersonaliseerde 24/7 aandacht.",
+      "activeFor": "Actieve service voor bedrijven, reisbureaus, hotels, weddingplanners en evenementorganisatoren."
+    },
+    "finalCta": {
+      "title": "Organiseert u een evenement of heeft u luxe zakelijke mobiliteit nodig?",
+      "ctaButton1": "Offerte Aanvragen",
+      "ctaButton2": "Bekijk Onze Vloot"
+    }
+  },
+  "reservasPage": {
+    "hero": {
+      "title": "Boek uw exclusieve ervaring",
+      "subtitle": "Kies een datum en een van onze adviseurs neemt contact met u op om een service op maat te ontwerpen."
+    },
+    "form": {
+      "title": "Plan Uw Luxe Reis",
+      "cityLabel": "Servicestad",
+      "cityPlaceholder": "Selecteer een stad",
+      "paxLabel": "Aantal Passagiers",
+      "paxPlaceholder": "Bijv.: 2",
+      "checkAvailabilityButton": "Beschikbaarheid Controleren"
+    },
+    "calendar": {
+      "title": "Selecteer Uw Datum",
+      "selectedDateLabel": "Geselecteerde datum",
+      "noDateSelected": "Geen",
+      "confirmationNote": "Na het voltooien van uw aanvraag, zal ons team de beschikbaarheid controleren en contact met u opnemen om uw reservering te bevestigen en personaliseren."
+    },
+    "availability": {
+      "error": "Vul alstublieft alle velden in.",
+      "successPrefix": "Dank u",
+      "success": "Dank u. Wij hebben uw aanvraag voor {city} op {date} voor {pax} persoon(en) ontvangen. Een van onze adviseurs zal spoedig contact met u opnemen om de beschikbaarheid en details te bevestigen."
+    },
+    "support": {
+      "title": "Ondersteuning en Alternatief Contact",
+      "urgentContactIntro": "Voor dringende vragen of onmiddellijke assistentie, neem contact met ons op via:",
+      "whatsappAriaLabel": "Contact via WhatsApp",
+      "whatsappButton": "Contact via WhatsApp",
+      "legalNotice": "Reserveringen zijn afhankelijk van beschikbaarheid en handmatige bevestiging door het Dachs Limousines team."
+    }
+  },
+  "cities": {
+    "barcelona": "Barcelona",
+    "madrid": "Madrid",
+    "sevilla": "Sevilla",
+    "valencia": "Valencia",
+    "ibiza": "Ibiza",
+    "malaga": "Málaga",
+    "other": "Andere (specificeren)"
+  },
+  "common": {
+    "locale": "nl-NL"
+  },
+  "conserjePage": {
+    "hero": {
+      "title": "VIP Concierge: Meer dan transport",
+      "subtitle": "Wij creëren onvergetelijke momenten door ons aan te passen aan de meest exclusieve wensen van onze klanten."
+    },
+    "regions": {
+      "china": "China",
+      "chinaDesc": "Diensten aangepast aan Aziatische tradities en verwachtingen.",
+      "arab": "Arabische Landen",
+      "arabDesc": "Respectvolle aandacht voor culturele gewoonten.",
+      "russia": "Rusland",
+      "russiaDesc": "Luxe standaarden voor veeleisende klanten.",
+      "usa": "Verenigde Staten",
+      "usaDesc": "Efficiëntie en uitmuntendheid in Amerikaanse stijl."
+    },
+    "experiences": {
+      "title": "Voorbeelden van gepersonaliseerde ervaringen",
+      "football": "Elite voetbal",
+      "footballDesc": "VIP-boxen, gastronomische diners, privétransfers.",
+      "wineOil": "Wijn- en olieroutes",
+      "wineOilDesc": "Exclusieve wijnhuizen, privéproeverijen, gereserveerde toegang.",
+      "uniqueEvents": "Unieke evenementen",
+      "uniqueEventsDesc": "Bruiloften, jubilea, feesten op hoog niveau."
+    },
+    "cta": {
+      "title": "Vraag uw VIP-ervaring aan",
+      "subtitle": "Neem contact met ons op om vrijblijvend een service op maat te plannen.",
+      "button": "Nu contacteren"
+    }
+  },
+  "featureGrid": {
+    "exclusivity": {
+      "title": "Gegarandeerde Exclusiviteit",
+      "description": "Premium diensten ontworpen om een unieke en gedenkwaardige ervaring te bieden bij elke rit."
+    },
+    "comfort": {
+      "title": "Maximaal Comfort",
+      "description": "Onze hoogwaardige vloot zorgt voor een aangename en ontspannen reis, met alle voorzieningen."
+    },
+    "punctuality": {
+      "title": "Britse Stiptheid",
+      "description": "Totale toewijding aan afgesproken schema's, want uw tijd is kostbaar voor ons."
+    },
+    "personalizedAttention": {
+      "title": "Gepersonaliseerde Aandacht",
+      "description": "Wij passen ons aan elke klant aan, bieden een nauwe behandeling en oplossingen op maat voor elke behoefte."
+    }
+  },
+  "conciergeVip": {
+    "imageAlt": "Luxe conciërgedienst in Barcelona door Dachs Limousines",
+    "heading": "VIP CONCIERGE",
+    "subheading": "Voorbij transport, wij creëren ervaringen.",
+    "description": "Onze VIP conciërgedienst zorgt voor elk detail. Van reserveringen in exclusieve restaurants en tickets voor evenementen, tot het organiseren van privétours en unieke culturele ervaringen. Laat ons gespecialiseerde team een op maat gemaakt reisschema ontwerpen dat uw smaak weerspiegelt en uw verwachtingen overtreft. Bij Dachs Limousines is uw tevredenheid onze hoogste prioriteit."
+  },
+  "vehicleGallery": {
+    "heading": "Voertuigengalerij",
+    "imageAlt1": "Zwarte luxe sedan in een straat in Barcelona",
+    "imageAlt2": "Executive SUV wachtend bij een evenement in Barcelona",
+    "imageAlt3": "Klassieke witte limousine bij een elegante bruiloft",
+    "imageAlt4": "Luxe Mercedes-Benz V-Klasse busje in een stedelijke omgeving"
+  },
+  "finalCta": {
+    "heading": "Verhoog Uw Reiservaring",
+    "contactButton": "Neem contact op",
+    "shareButton": "Deel deze ervaring"
+  }
+}
+
+    

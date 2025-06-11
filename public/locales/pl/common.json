@@ -1,0 +1,372 @@
+{
+  "navbar": {
+    "logoText": "Dachs Limousines",
+    "home": "Strona Główna",
+    "services": "Usługi",
+    "aboutUs": "O Nas",
+    "corporate": "Firmy i Wydarzenia",
+    "conciergeVip": "Concierge VIP",
+    "reservations": "Rezerwacje",
+    "contact": "Kontakt",
+    "changeLanguage": "Zmień język",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu"
+  },
+  "hero": {
+    "backgroundAlt": "Luksusowa limuzyna na Passeig de Gràcia",
+    "heading": "PONAD LUKSUS. OD 1940 ROKU.",
+    "subheading": "Z Barcelony na świat. Usługi VIP z ponad 80-letnią tradycją.",
+    "ctaButton": "Zamów swoje doświadczenie VIP"
+  },
+  "legacy": {
+    "heading": "Dziedzictwo doskonałości od 1940 roku",
+    "subheading": "Ponad osiem dekad ekskluzywnych usług w całej Hiszpanii.",
+    "tradition": {
+      "title": "Tradycja i Prestiż",
+      "description": "Założona w 1940 roku firma Dachs Limousines jest synonimem luksusu i zaufania w transporcie prywatnym."
+    },
+    "fleet": {
+      "title": "Nienaganna Flota",
+      "description": "Nowoczesne i klasyczne pojazdy, utrzymywane zgodnie z najwyższymi standardami dla Państwa komfortu i bezpieczeństwa."
+    },
+    "discretion": {
+      "title": "Absolutna Dyskrecja",
+      "description": "Profesjonalizm i poufność gwarantowane dla wszystkich naszych klientów i usług."
+    }
+  },
+  "differentiators": {
+    "heading": "Doskonałość jako punkt wyjścia",
+    "detail": {
+      "title": "Dbałość o Szczegóły",
+      "description": "Każda usługa jest starannie planowana, aby przekroczyć Państwa oczekiwania dotyczące luksusu i wydajności."
+    },
+    "punctuality": {
+      "title": "Szwajcarska Punktualność",
+      "description": "Niezachwiane zaangażowanie w punktualność, zapewniające, że zawsze dotrą Państwo na czas."
+    },
+    "personalized": {
+      "title": "Spersonalizowana Obsługa",
+      "description": "Dostosowujemy się do Państwa specyficznych potrzeb, oferując doświadczenie szyte na miarę."
+    }
+  },
+  "footer": {
+    "legal": {
+      "navLabel": "Linki prawne",
+      "cookies": "Polityka plików cookie",
+      "privacy": "Polityka prywatności",
+      "social": "Polityka mediów społecznościowych",
+      "notice": "Nota prawna",
+      "terms": "Regulamin"
+    },
+    "copyrightName": "Dachs Limousines S.L.",
+    "copyrightRights": "Wszelkie prawa zastrzeżone."
+  },
+  "legal": {
+    "contentPending": "Treść w trakcie ładowania.",
+    "cookies": {
+      "title": "Polityka Plików Cookie"
+    },
+    "privacy": {
+      "title": "Polityka Prywatności"
+    },
+    "social": {
+      "title": "Polityka Mediów Społecznościowych"
+    },
+    "notice": {
+      "title": "Nota Prawna"
+    },
+    "terms": {
+      "title": "Regulamin"
+    }
+  },
+  "aiConcierge": {
+    "triggerButton": "Otwórz Czat AI Concierge",
+    "triggerShort": "AI Concierge",
+    "modalTitle": "Dachs AI Concierge",
+    "greeting": "Witamy w Dachs Limousines. Jak mogę pomóc w Państwa ekskluzywnym doświadczeniu?",
+    "inputPlaceholder": "Wpisz swoją wiadomość tutaj...",
+    "sendButton": "Wyślij",
+    "error": "Przepraszamy, wystąpił błąd. Spróbuj ponownie później.",
+    "offerContact": "Jeśli sobie życzysz, mogę pomóc naszemu zespołowi skontaktować się z Tobą w celu uzyskania bardziej spersonalizowanej obsługi.",
+    "showFormButton": "Poproś o Spersonalizowany Kontakt",
+    "form": {
+      "title": "Podaj swoje dane w celu spersonalizowanego kontaktu:",
+      "nameLabel": "Imię i nazwisko",
+      "namePlaceholder": "Twoje pełne imię i nazwisko",
+      "emailLabel": "Email",
+      "emailPlaceholder": "twoj@email.pl",
+      "phoneLabel": "Telefon (Opcjonalnie)",
+      "phonePlaceholder": "+48 22 123 45 67",
+      "messageLabel": "Dodatkowa wiadomość",
+      "messagePlaceholder": "Szczegóły Twojego zapytania...",
+      "submitButton": "Wyślij Zapytanie",
+      "cancelButton": "Anuluj",
+      "submissionMessage": "Dziękujemy, {name}. Otrzymaliśmy Twoje zapytanie. Doradca skontaktuje się z Tobą wkrótce."
+    }
+  },
+  "chatWidget": {
+    "trigger": "Czat z Dachs"
+  },
+  "contactoPage": {
+    "hero": {
+      "title": "Skontaktuj się z nami, aby uzyskać spersonalizowane doświadczenie",
+      "subtitle": "Z przyjemnością pomożemy zaplanować niezapomnianą podróż"
+    },
+    "form": {
+      "title": "Wyślij nam wiadomość",
+      "fullNameLabel": "Imię i nazwisko",
+      "fullNamePlaceholder": "Jan Kowalski",
+      "emailLabel": "Email",
+      "emailPlaceholder": "jan.kowalski@example.com",
+      "phoneLabel": "Telefon",
+      "phonePlaceholder": "+48 22 123 45 67",
+      "messageLabel": "Wiadomość",
+      "messagePlaceholder": "Wpisz tutaj swoje zapytanie...",
+      "termsLabel": "Przeczytałem/am i akceptuję regulamin oraz politykę prywatności",
+      "submitButton": "Wyślij zapytanie",
+      "submitAlert": "Formularz wysłany (symulacja). Dziękujemy za kontakt."
+    },
+    "info": {
+      "title": "Nasze Informacje",
+      "addressValue": "C/ Valencia, 455, 08013 BARCELONA",
+      "phoneValue": "93 231 45 07",
+      "faxValue": "93 265 48 43",
+      "emailValue": "info@dachslimousines.com"
+    },
+    "map": {
+      "title": "Znajdź Nas",
+      "iframeTitle": "Lokalizacja Dachs Limousines na Google Maps"
+    },
+    "finalCta": {
+      "title": "Wolisz, żebyśmy to my skontaktowali się z Tobą?",
+      "button": "Poproś o telefon VIP"
+    }
+  },
+  "sobrePage": {
+    "hero": {
+      "title": "Ponad 80 lat doskonałości na kołach",
+      "subtitle": "Pionierzy wynajmu luksusowych samochodów z kierowcą w Hiszpanii od 1940 roku."
+    },
+    "history": {
+      "title": "Nasza Historia",
+      "paragraph1": "Od 1940 roku Dachs Limousines wyznacza standardy ekskluzywnego transportu w Hiszpanii.",
+      "paragraph2": "Jako jedna z pionierskich firm wynajmujących samochody z kierowcą w Barcelonie, towarzyszyliśmy pokoleniom klientów z niezachwianym zaangażowaniem w punktualność, elegancję i komfort.",
+      "paragraph3": "Nasza flota obejmuje sedany klasy executive, luksusowe limuzyny, vany, minibusy i autokary, wszystkie wyposażone tak, aby sprostać oczekiwaniom tych, którzy wymagają najlepszego.",
+      "paragraph4": "Każdy szczegół został starannie dopracowany. Dzięki wysoko wykwalifikowanym, wielojęzycznym kierowcom oferujemy coś więcej niż tylko przejazd: płynne doświadczenie, ze stylem i dyskrecją.",
+      "slogan": "Elegancja w ruchu. Od 1940 roku.",
+      "imageAlt1": "Klasyczny pojazd Dachs w Barcelonie",
+      "imageAlt2": "Profesjonalny szofer Dachs Limousines"
+    },
+    "differentiators": {
+      "title": "Usługa Stworzona Dla Ciebie",
+      "experience": "Ponad 80 lat doświadczenia",
+      "drivers": "Wielojęzyczni i profesjonalni szoferzy",
+      "attention": "Spersonalizowana obsługa 24h",
+      "fleet": "Flota dostosowana do każdej potrzeby"
+    },
+    "cta": {
+      "title": "Gotowy doświadczyć nowego poziomu luksusowego transportu?",
+      "reserveButton": "Zarezerwuj swoje doświadczenie VIP",
+      "contactButton": "Skontaktuj się z nami"
+    }
+  },
+  "serviciosPage": {
+    "title": "Nasze Usługi Premium"
+  },
+  "fleet": {
+    "heading": "Elitarna Flota",
+    "sClass": {
+      "alt": "Czarny Mercedes S-Klasa od Dachs Limousines",
+      "name": "Mercedes S-Klasa",
+      "description": "Kwintesencja limuzyny reprezentacyjnej. Luksus, komfort i zaawansowana technologia dla Twoich najważniejszych podróży."
+    },
+    "suv": {
+      "alt": "Czarny SUV klasy executive od Dachs Limousines",
+      "name": "SUV Executive",
+      "description": "Przestrzeń, wszechstronność i elegancja. Idealny dla małych grup, rodzin lub osób poszukujących dodatkowego komfortu i bezpieczeństwa."
+    },
+    "van": {
+      "alt": "Luksusowy van Mercedes V-Klasa od Dachs Limousines",
+      "name": "Luksusowy Van (Mercedes V-Klasa)",
+      "description": "Najwyższy komfort dla grup do 7 pasażerów. Idealny do transferów zespołów, obsługi wydarzeń lub turystyki VIP."
+    },
+    "classic": {
+      "alt": "Klasyczna biała limuzyna od Dachs Limousines na śluby",
+      "name": "Samochody Klasyczne i Limuzyny",
+      "description": "Dotyk wyróżnienia na śluby, uroczystości i specjalne wydarzenia. Ikoniczne pojazdy na niezapomniane chwile."
+    }
+  },
+  "experiences": {
+    "heading": "Luksusowe Doświadczenia",
+    "football": {
+      "title": "Elitarny Futbol",
+      "description": "Dostęp do lóż VIP, ekskluzywne transfery na stadiony i wykwintne kolacje. Doświadcz futbolu jak nigdy dotąd."
+    },
+    "wineRoute": {
+      "title": "Szlaki Wina i Gastronomii",
+      "description": "Odkryj prestiżowe winnice, prywatne degustacje i restauracje z gwiazdkami Michelin, wszystko z prywatnym szoferem."
+    },
+    "corporate": {
+      "title": "Premium Wydarzenia Firmowe",
+      "description": "Nienaganna logistyka kongresów, spotkań na wysokim szczeblu i roadshow. Twój wizerunek, nasz priorytet."
+    }
+  },
+  "empresasPage": {
+    "hero": {
+      "title": "Rozwiązania mobilności na najwyższym poziomie для firm i wydarzeń",
+      "subtitle": "Zaufaj Dachs Limousines w zakresie transferów premium na kongresy, wesela, podróże służbowe i logistykę grupową.",
+      "cta": "Poproś o spersonalizowaną ofertę"
+    },
+    "leadersSection": {
+      "bgAlt": "Tło wydarzenia firmowego",
+      "title": "Liderzy mobilności premium od 1940 roku",
+      "paragraph1": "W Dachs Limousines od ponad 80 lat obsługujemy firmy, instytucje i wymagających klientów.",
+      "paragraph2": "Nasze doświadczenie pozwala nam oferować kompleksowe rozwiązania w zakresie mobilności premium: od indywidualnych transferów po kompleksową logistykę wydarzeń z setkami uczestników, zawsze gwarantując punktualność, dyskrecję i maksymalny komfort."
+    },
+    "services": {
+      "heading": "Usługi Zaprojektowane dla Sukcesu Twojego Wydarzenia",
+      "corporate": {
+        "title": "Transfery Firmowe",
+        "description": "Odbiór z lotnisk, dworców i hoteli dla kadry kierowniczej i zespołów. Gwarantowana punktualność i dyskrecja."
+      },
+      "weddings": {
+        "title": "Wesela Marzeń",
+        "description": "Limuzyny i pojazdy wysokiej klasy dla nowożeńców i gości. Dbamy o każdy szczegół, aby ten dzień był idealny."
+      },
+      "congresses": {
+        "title": "Kongresy i Targi",
+        "description": "Zarządzanie logistyką transportu na potrzeby dużych wydarzeń, z wielojęzyczną obsługą i koordynacją na miejscu."
+      },
+      "vipTourism": {
+        "title": "Turystyka VIP i Wycieczki",
+        "description": "Spersonalizowane trasy z wielojęzycznymi szoferami, aby odkrywać Barcelonę i okolice w maksymalnym komforcie."
+      }
+    },
+    "benefits": {
+      "heading": "Flota premium, nienaganne doświadczenie",
+      "fleet": "Flota wysokiej klasy z Wi-Fi, klimatyzacją i maksymalną dyskrecją.",
+      "drivers": "Profesjonalni, umundurowani i wielojęzyczni kierowcy.",
+      "organization": "Kompleksowa organizacja transferów na wydarzenia dowolnej wielkości.",
+      "budgets": "Dostosowanie do wszystkich typów klientów i budżetów dzięki rozwiązaniom szytym na miarę.",
+      "attention": "Szybkie wyceny i spersonalizowana obsługa 24/7.",
+      "activeFor": "Aktywna usługa dla firm, biur podróży, hoteli, organizatorów ślubów i wydarzeń."
+    },
+    "finalCta": {
+      "title": "Organizujesz wydarzenie lub potrzebujesz luksusowej mobilności dla kadry kierowniczej?",
+      "ctaButton1": "Poproś o Wycenę",
+      "ctaButton2": "Zobacz Naszą Flotę"
+    }
+  },
+  "reservasPage": {
+    "hero": {
+      "title": "Zarezerwuj swoje ekskluzywne doświadczenie",
+      "subtitle": "Wybierz datę, a jeden z naszych doradców skontaktuje się z Tobą, aby zaprojektować usługę na miarę."
+    },
+    "form": {
+      "title": "Zaplanuj Swoją Luksusową Podróż",
+      "cityLabel": "Miasto Usługi",
+      "cityPlaceholder": "Wybierz miasto",
+      "paxLabel": "Liczba Pasażerów",
+      "paxPlaceholder": "Np.: 2",
+      "checkAvailabilityButton": "Sprawdź Dostępność"
+    },
+    "calendar": {
+      "title": "Wybierz Datę",
+      "selectedDateLabel": "Wybrana data",
+      "noDateSelected": "Żadna",
+      "confirmationNote": "Po złożeniu zapytania nasz zespół sprawdzi dostępność i skontaktuje się z Tobą w celu potwierdzenia i personalizacji rezerwacji."
+    },
+    "availability": {
+      "error": "Proszę wypełnić wszystkie pola.",
+      "successPrefix": "Dziękujemy",
+      "success": "Dziękujemy. Otrzymaliśmy Twoje zapytanie dotyczące {city} na dzień {date} dla {pax} osoby(osób). Jeden z naszych doradców wkrótce skontaktuje się z Tobą, aby potwierdzić dostępność i szczegóły."
+    },
+    "support": {
+      "title": "Wsparcie i Kontakt Alternatywny",
+      "urgentContactIntro": "W przypadku pilnych zapytań lub natychmiastowej pomocy prosimy o kontakt pod numerem:",
+      "whatsappAriaLabel": "Kontakt przez WhatsApp",
+      "whatsappButton": "Kontakt przez WhatsApp",
+      "legalNotice": "Rezerwacje podlegają dostępności i ręcznemu potwierdzeniu przez zespół Dachs Limousines."
+    }
+  },
+  "cities": {
+    "barcelona": "Barcelona",
+    "madrid": "Madryt",
+    "sevilla": "Sewilla",
+    "valencia": "Walencja",
+    "ibiza": "Ibiza",
+    "malaga": "Malaga",
+    "other": "Inne (określ)"
+  },
+  "common": {
+    "locale": "pl-PL"
+  },
+  "conserjePage": {
+    "hero": {
+      "title": "Concierge VIP: Więcej niż transport",
+      "subtitle": "Tworzymy niezapomniane chwile, dostosowując się do najbardziej ekskluzywnych życzeń naszych klientów."
+    },
+    "regions": {
+      "china": "Chiny",
+      "chinaDesc": "Usługi dostosowane do azjatyckich tradycji i oczekiwań.",
+      "arab": "Kraje Arabskie",
+      "arabDesc": "Obsługa z poszanowaniem zwyczajów kulturowych.",
+      "russia": "Rosja",
+      "russiaDesc": "Standardy luksusu для wymagających klientów.",
+      "usa": "Stany Zjednoczone",
+      "usaDesc": "Efektywność i doskonałość w amerykańskim stylu."
+    },
+    "experiences": {
+      "title": "Przykłady spersonalizowanych doświadczeń",
+      "football": "Elitarny futbol",
+      "footballDesc": "Loże VIP, wykwintne kolacje, prywatne transfery.",
+      "wineOil": "Szlaki wina i oliwy",
+      "wineOilDesc": "Ekskluzywne winnice, prywatne degustacje, zarezerwowany dostęp.",
+      "uniqueEvents": "Wyjątkowe wydarzenia",
+      "uniqueEventsDesc": "Wesela, rocznice, uroczystości na wysokim poziomie."
+    },
+    "cta": {
+      "title": "Zamów swoje doświadczenie VIP",
+      "subtitle": "Skontaktuj się z nami, aby zaplanować usługę na miarę, bez zobowiązań.",
+      "button": "Skontaktuj się teraz"
+    }
+  },
+  "featureGrid": {
+    "exclusivity": {
+      "title": "Gwarantowana Ekskluzywność",
+      "description": "Usługi premium zaprojektowane, aby oferować unikalne i niezapomniane wrażenia podczas każdej podróży."
+    },
+    "comfort": {
+      "title": "Maksymalny Komfort",
+      "description": "Nasza flota pojazdów wysokiej klasy zapewnia przyjemną i relaksującą podróż, ze wszystkimi udogodnieniami."
+    },
+    "punctuality": {
+      "title": "Brytyjska Punktualność",
+      "description": "Całkowite zaangażowanie w uzgodnione harmonogramy, ponieważ Twój czas jest dla nas cenny."
+    },
+    "personalizedAttention": {
+      "title": "Spersonalizowana Uwaga",
+      "description": "Dostosowujemy się do każdego klienta, oferując bliskie traktowanie i rozwiązania na miarę każdej potrzeby."
+    }
+  },
+  "conciergeVip": {
+    "imageAlt": "Usługa concierge luksusowego w Barcelonie przez Dachs Limousines",
+    "heading": "CONCIERGE VIP",
+    "subheading": "Poza transportem, tworzymy doświadczenia.",
+    "description": "Nasz serwis concierge VIP dba o każdy szczegół. Od rezerwacji w ekskluzywnych restauracjach i biletów na wydarzenia, po organizację prywatnych wycieczek i unikalnych doświadczeń kulturalnych. Pozwól naszemu wyspecjalizowanemu zespołowi zaprojektować spersonalizowany plan podróży, który odzwierciedli Twoje gusta i przekroczy Twoje oczekiwania. W Dachs Limousines Twoja satysfakcja jest naszym najwyższym priorytetem."
+  },
+  "vehicleGallery": {
+    "heading": "Galeria Pojazdów",
+    "imageAlt1": "Czarny luksusowy sedan na ulicy w Barcelonie",
+    "imageAlt2": "SUV klasy executive czekający na wydarzeniu w Barcelonie",
+    "imageAlt3": "Klasyczna biała limuzyna na eleganckim weselu",
+    "imageAlt4": "Luksusowy van Mercedes-Benz V-Klasa w otoczeniu miejskim"
+  },
+  "finalCta": {
+    "heading": "Podnieś Swoje Doświadczenie Podróży",
+    "contactButton": "Skontaktuj się z nami",
+    "shareButton": "Podziel się tym doświadczeniem"
+  }
+}
+
+    

@@ -1,8 +1,9 @@
+
 "use client";
 
 import Image from 'next/image';
+import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { ThemeToggle } from '@/components/theme-toggle';
 import { useTranslation } from '@/hooks/use-translation';
 
 export function HeroSection() {
@@ -22,23 +23,25 @@ export function HeroSection() {
       />
       <div className="absolute inset-0 bg-gradient-to-r from-black/90 via-black/70 to-transparent z-10"></div>
       
-      <ThemeToggle className="absolute top-6 right-6 z-30" iconClassName="text-white" />
 
       <div className="relative z-20 container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-left">
         <div className="max-w-2xl">
-          <h1 className="font-headline text-5xl md:text-7xl font-bold text-primary animate-fade-in-down">
-            {t('hero.heading')}
+          <h1 className="font-headline text-5xl md:text-7xl text-primary animate-fade-in-down">
+            {t('hero.heading', 'MÁS ALLÁ DEL LUJO. DESDE 1940.')}
           </h1>
           <p className="mt-6 font-body text-lg md:text-xl text-white/80 animate-fade-in-up delay-300">
-            {t('hero.subheading')}
+            {t('hero.subheading', 'Desde Barcelona para el mundo. Servicios VIP con más de 80 años de legado.')}
           </p>
-          <Button 
-            size="lg" 
-            className="mt-10 bg-primary text-primary-foreground px-8 py-3 rounded-full font-semibold shadow-xl hover:bg-background hover:text-primary border border-transparent hover:border-primary transition-all duration-300 ease-in-out transform hover:scale-105 animate-fade-in-up delay-500"
-            aria-label={t('hero.ctaButton')}
-          >
-            {t('hero.ctaButton')}
-          </Button>
+          <Link href="/reservas" passHref>
+            <Button 
+              asChild={false} // Important: let Link handle navigation
+              size="lg" 
+              className="mt-10 bg-primary text-primary-foreground px-8 py-3 rounded-full font-semibold shadow-xl hover:bg-background hover:text-primary border border-transparent hover:border-primary transition-all duration-300 ease-in-out transform hover:scale-105 animate-fade-in-up delay-500"
+              aria-label={t('hero.ctaButton', 'Solicita tu experiencia VIP')}
+            >
+              {t('hero.ctaButton', 'Solicita tu experiencia VIP')}
+            </Button>
+          </Link>
         </div>
       </div>
       <style jsx global>{`

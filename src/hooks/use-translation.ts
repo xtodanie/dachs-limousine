@@ -1,25 +1,40 @@
+
 'use client';
 import { useLanguage } from '@/contexts/language-context';
+import type { Locale } from '../../../middleware'; // Adjusted path
 
 const getNestedValue = (obj: any, path: string): string => {
   const value = path.split('.').reduce((acc, part) => acc && acc[part], obj);
   return typeof value === 'string' ? value : path;
 };
 
-export const useTranslation = () => {
-  const { translations, isLoaded, language } = useLanguage();
+interface UseTranslationReturn {
+  t: (key: string, fallback?: string, options?: Record<string, string | number>) => string;
+  language: Locale; // Changed from currentLanguage
+  isTranslationsLoaded: boolean;
+  isRTL: boolean;
+}
 
-  const t = (key: string, fallback?: string): string => {
+export const useTranslation = (): UseTranslationReturn => {
+  const { translations, isLoaded, language, isRTL } = useLanguage();
+
+  const t = (key: string, fallback?: string, options?: Record<string, string | number>): string => {
     if (!isLoaded || Object.keys(translations).length === 0) {
-        // console.warn(`Translations not loaded or empty for language: ${language}. Key: ${key}`);
         return fallback || key;
     }
-    const translatedValue = getNestedValue(translations, key);
-    if (translatedValue === key && fallback) { // Key not found, use fallback
-        return fallback;
+    let translatedValue = getNestedValue(translations, key);
+    if (translatedValue === key && fallback) { 
+        translatedValue = fallback;
+    }
+
+    if (options) {
+      Object.keys(options).forEach(optionKey => {
+        const regex = new RegExp(`{${optionKey}}`, 'g');
+        translatedValue = translatedValue.replace(regex, String(options[optionKey]));
+      });
     }
     return translatedValue;
   };
 
-  return { t, currentLanguage: language, isTranslationsLoaded: isLoaded };
+  return { t, language, isTranslationsLoaded: isLoaded, isRTL };
 };

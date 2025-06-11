@@ -1,0 +1,372 @@
+{
+  "navbar": {
+    "logoText": "达克斯豪华轿车",
+    "home": "首页",
+    "services": "服务",
+    "aboutUs": "关于我们",
+    "corporate": "企业与活动",
+    "conciergeVip": "VIP礼宾服务",
+    "reservations": "预订",
+    "contact": "联系我们",
+    "changeLanguage": "更改语言",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
+  },
+  "hero": {
+    "backgroundAlt": "格拉西亚大道上的豪华轿车",
+    "heading": "超越奢华。始于1940年。",
+    "subheading": "从巴塞罗那走向世界。拥有80多年传统的VIP服务。",
+    "ctaButton": "请求您的VIP体验"
+  },
+  "legacy": {
+    "heading": "自1940年以来的卓越传承",
+    "subheading": "遍布西班牙的八十多年专属服务。",
+    "tradition": {
+      "title": "传统与声望",
+      "description": "达克斯豪华轿车成立于1940年，是私人交通领域奢华与信任的代名词。"
+    },
+    "fleet": {
+      "title": "无可挑剔的车队",
+      "description": "现代与经典车辆，按照最高标准维护，确保您的舒适与安全。"
+    },
+    "discretion": {
+      "title": "绝对保密",
+      "description": "为所有客户和服务保证专业精神和保密性。"
+    }
+  },
+  "differentiators": {
+    "heading": "卓越是我们的起点",
+    "detail": {
+      "title": "注重细节",
+      "description": "每项服务都经过精心策划，以超越您对奢华和效率的期望。"
+    },
+    "punctuality": {
+      "title": "瑞士般的准时",
+      "description": "坚定不移地遵守时间，确保您始终准时到达。"
+    },
+    "personalized": {
+      "title": "个性化服务",
+      "description": "我们根据您的特定需求进行调整，提供量身定制的体验。"
+    }
+  },
+  "footer": {
+    "legal": {
+      "navLabel": "法律链接",
+      "cookies": "Cookie政策",
+      "privacy": "隐私政策",
+      "social": "社交媒体政策",
+      "notice": "法律声明",
+      "terms": "条款与条件"
+    },
+    "copyrightName": "达克斯豪华轿车有限公司",
+    "copyrightRights": "版权所有。"
+  },
+  "legal": {
+    "contentPending": "内容待上传。",
+    "cookies": {
+      "title": "Cookie政策"
+    },
+    "privacy": {
+      "title": "隐私政策"
+    },
+    "social": {
+      "title": "社交媒体政策"
+    },
+    "notice": {
+      "title": "法律声明"
+    },
+    "terms": {
+      "title": "条款与条件"
+    }
+  },
+  "aiConcierge": {
+    "triggerButton": "打开AI礼宾聊天",
+    "triggerShort": "AI礼宾",
+    "modalTitle": "达克斯AI礼宾",
+    "greeting": "欢迎来到达克斯豪华轿车。我如何协助您的专属体验？",
+    "inputPlaceholder": "在此输入您的消息...",
+    "sendButton": "发送",
+    "error": "抱歉，发生错误。请稍后再试。",
+    "offerContact": "如果您愿意，我可以帮助我们的团队与您联系，以获得更个性化的关注。",
+    "showFormButton": "请求个性化联系",
+    "form": {
+      "title": "请提供您的详细信息以便个性化联系：",
+      "nameLabel": "姓名",
+      "namePlaceholder": "您的全名",
+      "emailLabel": "电子邮件",
+      "emailPlaceholder": "your@email.cn",
+      "phoneLabel": "电话（可选）",
+      "phonePlaceholder": "+86 10 1234 5678",
+      "messageLabel": "附加信息",
+      "messagePlaceholder": "您的请求详情...",
+      "submitButton": "发送请求",
+      "cancelButton": "取消",
+      "submissionMessage": "谢谢您，{name}。我们已收到您的请求。顾问将很快与您联系。"
+    }
+  },
+  "chatWidget": {
+    "trigger": "与达克斯聊天"
+  },
+  "contactoPage": {
+    "hero": {
+      "title": "联系我们获取个性化体验",
+      "subtitle": "我们将很乐意帮助您规划一次难忘的旅程"
+    },
+    "form": {
+      "title": "给我们留言",
+      "fullNameLabel": "全名",
+      "fullNamePlaceholder": "张三",
+      "emailLabel": "电子邮件",
+      "emailPlaceholder": "zhangsan@example.com",
+      "phoneLabel": "电话",
+      "phonePlaceholder": "+86 10 1234 5678",
+      "messageLabel": "留言",
+      "messagePlaceholder": "在此处填写您的查询...",
+      "termsLabel": "我已阅读并接受条款和隐私政策",
+      "submitButton": "发送请求",
+      "submitAlert": "表格已提交（模拟）。感谢您联系我们。"
+    },
+    "info": {
+      "title": "我们的信息",
+      "addressValue": "C/ Valencia, 455, 08013 巴塞罗那",
+      "phoneValue": "93 231 45 07",
+      "faxValue": "93 265 48 43",
+      "emailValue": "info@dachslimousines.com"
+    },
+    "map": {
+      "title": "找到我们",
+      "iframeTitle": "达克斯豪华轿车在谷歌地图上的位置"
+    },
+    "finalCta": {
+      "title": "您希望我们联系您吗？",
+      "button": "请求VIP电话"
+    }
+  },
+  "sobrePage": {
+    "hero": {
+      "title": "80多年的卓越车轮体验",
+      "subtitle": "自1940年以来，西班牙豪华专车租赁服务的先驱。"
+    },
+    "history": {
+      "title": "我们的历史",
+      "paragraph1": "自1940年以来，达克斯豪华轿车定义了西班牙专属交通的标准。",
+      "paragraph2": "作为巴塞罗那专车租赁的先驱公司之一，我们以坚定不移的准时、优雅和舒适承诺，陪伴了一代又一代的客户。",
+      "paragraph3": "我们的车队包括行政轿车、豪华轿车、面包车、小巴和长途汽车，所有车辆都配备齐全，以满足那些追求最佳体验的客户的期望。",
+      "paragraph4": "每一个细节都经过精心呵护。我们拥有训练有素的多语种司机，提供的不仅仅是一次旅程：而是一次顺畅、时尚且保密的体验。",
+      "slogan": "优雅出行。始于1940年。",
+      "imageAlt1": "巴塞罗那的达克斯经典车辆",
+      "imageAlt2": "达克斯豪华轿车专业司机"
+    },
+    "differentiators": {
+      "title": "为您量身打造的服务",
+      "experience": "80多年经验",
+      "drivers": "多语种专业司机",
+      "attention": "24小时个性化关注",
+      "fleet": "适应各种需求的车队"
+    },
+    "cta": {
+      "title": "准备好体验下一级别的豪华交通服务了吗？",
+      "reserveButton": "预订您的VIP体验",
+      "contactButton": "联系我们"
+    }
+  },
+  "serviciosPage": {
+    "title": "我们的高级服务"
+  },
+  "fleet": {
+    "heading": "精英车队",
+    "sClass": {
+      "alt": "达克斯豪华轿车的黑色梅赛德斯S级",
+      "name": "梅赛德斯S级",
+      "description": "典型的行政级轿车。奢华、舒适和先进技术，为您最重要的旅程保驾护航。"
+    },
+    "suv": {
+      "alt": "达克斯豪华轿车的黑色行政级SUV",
+      "name": "行政级SUV",
+      "description": "空间、多功能性和优雅。非常适合小团体、家庭或寻求额外舒适和安全的人士。"
+    },
+    "van": {
+      "alt": "达克斯豪华轿车的豪华梅赛德斯V级面包车",
+      "name": "豪华面包车（梅赛德斯V级）",
+      "description": "为最多7名乘客提供卓越舒适度。非常适合团队接送、活动或VIP旅游。"
+    },
+    "classic": {
+      "alt": "达克斯豪华轿车的经典白色婚礼豪华轿车",
+      "name": "经典汽车和豪华轿车",
+      "description": "为婚礼、庆典和特殊活动增添一抹尊贵。标志性车辆，留下难忘瞬间。"
+    }
+  },
+  "experiences": {
+    "heading": "奢华体验",
+    "football": {
+      "title": "精英足球",
+      "description": "进入VIP包厢，专属球场接送和美食晚宴。以前所未有的方式体验足球。"
+    },
+    "wineRoute": {
+      "title": "葡萄酒与美食之旅",
+      "description": "探索著名的酒庄，私人品酒会和米其林星级餐厅，全程配备私人司机。"
+    },
+    "corporate": {
+      "title": "高级企业活动",
+      "description": "为会议、高层会议和路演提供无可挑剔的后勤保障。您的形象，我们的首要任务。"
+    }
+  },
+  "empresasPage": {
+    "hero": {
+      "title": "为企业和活动提供高水平的出行解决方案",
+      "subtitle": "信任达克斯豪华轿车为会议、婚礼、企业差旅和团体后勤提供高级接送服务。",
+      "cta": "请求个性化方案"
+    },
+    "leadersSection": {
+      "bgAlt": "企业活动背景",
+      "title": "自1940年以来的高级出行领导者",
+      "paragraph1": "达克斯豪华轿车为企业、机构和要求苛刻的客户服务已超过80年。",
+      "paragraph2": "我们的经验使我们能够提供高级出行领域的完整解决方案：从个人接送到数百名与会者活动的全面后勤保障，始终保证准时、保密和最大舒适度。"
+    },
+    "services": {
+      "heading": "为您的活动成功而设计的服务",
+      "corporate": {
+        "title": "企业接送",
+        "description": "为高管和团队提供机场、车站和酒店接送服务。保证准时和保密。"
+      },
+      "weddings": {
+        "title": "梦幻婚礼",
+        "description": "为新婚夫妇和宾客提供豪华轿车和高端车辆。我们注重每一个细节，打造完美的一天。"
+      },
+      "congresses": {
+        "title": "会议和展览会",
+        "description": "大型活动的交通后勤管理，提供多语种服务和现场协调。"
+      },
+      "vipTourism": {
+        "title": "VIP旅游和短途旅行",
+        "description": "配备多语种司机的个性化路线，让您以最大舒适度探索巴塞罗那及其周边地区。"
+      }
+    },
+    "benefits": {
+      "heading": "高级车队，无可挑剔的体验",
+      "fleet": "配备Wi-Fi、空调和最大程度保密性的高端车队。",
+      "drivers": "专业、着装统一且多语种的司机。",
+      "organization": "为各种规模的活动提供全面的接送组织服务。",
+      "budgets": "通过量身定制的解决方案适应所有类型的客户和预算。",
+      "attention": "快速报价和24/7个性化服务。",
+      "activeFor": "为公司、旅行社、酒店、婚礼策划师和活动组织者提供积极服务。"
+    },
+    "finalCta": {
+      "title": "正在组织活动或需要豪华行政出行服务？",
+      "ctaButton1": "请求报价",
+      "ctaButton2": "查看我们的车队"
+    }
+  },
+  "reservasPage": {
+    "hero": {
+      "title": "预订您的专属体验",
+      "subtitle": "选择一个日期，我们的一位顾问将与您联系，设计量身定制的服务。"
+    },
+    "form": {
+      "title": "规划您的奢华之旅",
+      "cityLabel": "服务城市",
+      "cityPlaceholder": "选择一个城市",
+      "paxLabel": "乘客人数",
+      "paxPlaceholder": "例如：2",
+      "checkAvailabilityButton": "查询空房情况"
+    },
+    "calendar": {
+      "title": "选择您的日期",
+      "selectedDateLabel": "选定日期",
+      "noDateSelected": "无",
+      "confirmationNote": "完成您的请求后，我们的团队将检查空房情况并与您联系以确认和个性化您的预订。"
+    },
+    "availability": {
+      "error": "请填写所有字段。",
+      "successPrefix": "谢谢您",
+      "success": "谢谢您。我们已收到您于{date}在{city}为{pax}位乘客提出的请求。我们的一位顾问将很快与您联系，以确认空房情况和详细信息。"
+    },
+    "support": {
+      "title": "支持与替代联系方式",
+      "urgentContactIntro": "如有紧急查询或需要立即协助，请通过以下方式联系我们：",
+      "whatsappAriaLabel": "通过WhatsApp联系",
+      "whatsappButton": "通过WhatsApp联系",
+      "legalNotice": "预订需视空房情况而定，并需达克斯豪华轿车团队人工确认。"
+    }
+  },
+  "cities": {
+    "barcelona": "巴塞罗那",
+    "madrid": "马德里",
+    "sevilla": "塞维利亚",
+    "valencia": "瓦伦西亚",
+    "ibiza": "伊维萨",
+    "malaga": "马拉加",
+    "other": "其他（请注明）"
+  },
+  "common": {
+    "locale": "zh-CN"
+  },
+  "conserjePage": {
+    "hero": {
+      "title": "VIP礼宾服务：超越交通",
+      "subtitle": "我们通过适应客户最独特的需求来创造难忘的时刻。"
+    },
+    "regions": {
+      "china": "中国",
+      "chinaDesc": "适应亚洲传统和期望的服务。",
+      "arab": "阿拉伯国家",
+      "arabDesc": "尊重文化习俗的服务。",
+      "russia": "俄罗斯",
+      "russiaDesc": "为要求苛刻的客户提供豪华标准。",
+      "usa": "美国",
+      "usaDesc": "美式效率和卓越。"
+    },
+    "experiences": {
+      "title": "个性化体验示例",
+      "football": "精英足球",
+      "footballDesc": "VIP包厢，美食晚宴，私人接送。",
+      "wineOil": "葡萄酒和橄榄油之路",
+      "wineOilDesc": "专属酒庄，私人品酒，预留通道。",
+      "uniqueEvents": "独特活动",
+      "uniqueEventsDesc": "婚礼，周年纪念，高级庆典。"
+    },
+    "cta": {
+      "title": "请求您的VIP体验",
+      "subtitle": "联系我们，无义务规划量身定制的服务。",
+      "button": "立即联系"
+    }
+  },
+  "featureGrid": {
+    "exclusivity": {
+      "title": "保证专属性",
+      "description": "旨在为每次旅程提供独特而难忘体验的高级服务。"
+    },
+    "comfort": {
+      "title": "最大舒适度",
+      "description": "我们的高端车队确保旅途愉快轻松，设施齐全。"
+    },
+    "punctuality": {
+      "title": "英国式准时",
+      "description": "完全遵守商定的时间表，因为您的时间对我们而言非常宝贵。"
+    },
+    "personalizedAttention": {
+      "title": "个性化关注",
+      "description": "我们适应每位客户，提供亲切的待遇和针对各种需求的量身定制解决方案。"
+    }
+  },
+  "conciergeVip": {
+    "imageAlt": "达克斯豪华轿车在巴塞罗那提供的豪华礼宾服务",
+    "heading": "VIP礼宾服务",
+    "subheading": "超越交通，我们创造体验。",
+    "description": "我们的VIP礼宾服务会处理每一个细节。从预订高级餐厅和活动门票，到组织私人旅游和独特的文化体验。让我们专业的团队为您量身定制行程，反映您的品味并超越您的期望。在达克斯豪华轿车，您的满意是我们的首要任务。"
+  },
+  "vehicleGallery": {
+    "heading": "车辆展示廊",
+    "imageAlt1": "巴塞罗那街头的黑色豪华轿车",
+    "imageAlt2": "在巴塞罗那活动中等候的行政级SUV",
+    "imageAlt3": "优雅婚礼上的经典白色豪华轿车",
+    "imageAlt4": "城市环境中的豪华梅赛德斯-奔驰V级面包车"
+  },
+  "finalCta": {
+    "heading": "提升您的旅行体验",
+    "contactButton": "联系我们",
+    "shareButton": "分享此体验"
+  }
+}
+
+    
